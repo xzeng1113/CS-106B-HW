@@ -1,0 +1,22 @@
+# You should put your custom graph data in here.
+
+IMAGE
+map-custom.jpg
+788
+400
+
+VERTICES
+Alejandras';526;296
+Ronnies';332;267
+Pepes';135;130
+Ramans';621;55
+Linhs';133;367
+
+EDGES
+Alejandras';Ronnies';2230
+Alejandras';Pepes';781
+Alejandras';Ramans';1231
+Pepes';Ramans';220
+Ramans';Ronnies';655
+Ronnies';Linhs';131
+Pepes';Linhs';561

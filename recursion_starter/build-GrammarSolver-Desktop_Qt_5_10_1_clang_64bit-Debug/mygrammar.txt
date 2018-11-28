@@ -1,0 +1,7 @@
+<nature>::=<sky> <ocean> <land> 
+<sky>::=<moon> <star>|<sun>
+<sun>::=dawn|dusk
+<moon>::=fullmoon|eclipse
+<star>::=Polaris|Saturn|Pluto
+<ocean>::=Pacific|Atlantic||Indian|Arctic|Antactic
+<land>::=Asia|Europe|America|Africa|Australia|Antactic
